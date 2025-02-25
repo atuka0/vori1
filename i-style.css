@@ -1,0 +1,8 @@
+body.i-page {
+  background-color: #a9064c;
+}
+
+body.i-page .photo-frame {
+  border: 2px solid #f63fa1;
+  background-color: #f043a5;
+}
